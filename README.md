@@ -4,6 +4,11 @@
 
 Get buy in from investors that a bike-sharing program in Des Moines is a solid business proposal.  Used CitiBike Sharing information from NYC - August of 2019 to support this bikesharing model in Des Moines.
 
+## Update data
+Convert trip duration information from an interger to a datetime data type to continue analysis for bikesharing project.  Created a new dataframe to use in subsequential visualizations and analysis.
+
+![trip_duration_df.png](Images/trip_duration_df.png)
+
 ## Results: 
 
 Click to view Tableau Visualizations - [link to dashboard](https://public.tableau.com/app/profile/gilda.juarez/viz/Citi_Bike_Trip_Visualization_Analysis/Bike_SharingStory?publish=yes)
