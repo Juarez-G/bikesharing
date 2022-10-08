@@ -6,7 +6,7 @@ Get buy in from investors that a bike-sharing program in Des Moines is a solid b
 
 ## Results: 
 
-Click to view Tableau Visualizations - [link to dashboard]https://public.tableau.com/app/profile/gilda.juarez/viz/Citi_Bike_Trip_Visualization_Analysis/Bike_SharingStory?publish=yes)
+Click to view Tableau Visualizations - [link to dashboard](https://public.tableau.com/app/profile/gilda.juarez/viz/Citi_Bike_Trip_Visualization_Analysis/Bike_SharingStory?publish=yes)
 
 ![checkout_times.png](Images/checkout_times.png)
 * The trip duration for most users in the month August 2019 was 5 minutes with a total of 146,752 users.
